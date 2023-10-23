@@ -12,7 +12,7 @@ Esse jogo foi criado com base em um projeto feito pela plataforma da Alura, onde
 
 -`Funcionalidade 2:` Ganhando o jogo, você poderá começar uma nova partida sem a necessidade de atualizar a página;
 
--`Funcionalidade 3:` Caso não queira ler, poderá aceitar a função assim que página abrir, que permite que uma voz leia os textos para você.
+-`Funcionalidade 3:` Caso não queira ler, poderá aceitar a função assim que a página abrir, que permite que uma voz leia os textos para você.
 
 <h1>:computer: Aplicação</h1>
 
